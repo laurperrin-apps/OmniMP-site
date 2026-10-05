@@ -16,7 +16,7 @@ L’adresse attendue est `https://laurperrin-apps.github.io/OmniMP-site/`.
 ## Pages
 
 - `index.html` : présentation de l’application et de ses rubriques.
-- `support.html` : aide et signalement d’un problème via GitHub Issues.
+- `support.html` : aide et contact par courriel à OmniMP@icloud.com.
 - `privacy.html` : politique correspondant au prototype actuel.
 - `styles.css` : style responsive en vert et jaune.
 - `.nojekyll` : désactive le traitement Jekyll.
