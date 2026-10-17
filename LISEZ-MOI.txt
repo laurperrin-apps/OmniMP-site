@@ -1,0 +1,12 @@
+OmniMP-site 1.3 (70) — mise à jour de trois pages
+
+Fichiers à remplacer dans le dépôt laurperrin-apps/OmniMP-site :
+- index.html
+- support.html
+- privacy.html
+
+Ne pas remplacer styles.css : la feuille existante gère déjà les modes clair/sombre et reste compatible.
+
+Cette proposition conserve les liens de navigation, le lien App Store, le contact et les mentions de confidentialité du site actuel.
+
+Vérifier l’affichage sur GitHub Pages et l’exactitude des mentions de confidentialité avant publication.
